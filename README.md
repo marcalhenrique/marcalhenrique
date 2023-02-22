@@ -3,10 +3,10 @@
 </h1>
 
 # Sobre mim:
-- Meu nome é Marçal, tenho 26 anos
-- Discente em Engenharia de Computação pelo IFMG - Campus Bambuí
-- Atualmente estudando data science e afins
-- Aficionado por animes e games
+- :technologist: Meu nome é Marçal, tenho 26 anos
+- :books: Discente em Engenharia de Computação pelo IFMG - Campus Bambuí
+- :seedling: Atualmente estudando data science e afins
+- :nerd_face: Aficionado por animes e games
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcal-Python" height="50" width="50" src="https://www.svgrepo.com/show/452091/python.svg">
