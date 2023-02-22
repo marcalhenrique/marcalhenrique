@@ -2,7 +2,7 @@
   Bem-vindo ao meu GitHub :scientist:
 </h1>
 
-# Sobre mim:
+# Sobre mim
 - :technologist: Meu nome é Marçal, tenho 26 anos
 - :books: Discente em Engenharia de Computação pelo IFMG - Campus Bambuí
 - :seedling: Atualmente estudando data science e afins
@@ -27,7 +27,7 @@
 
 ##
 
-# Contato:
+# Contato
 
 <div>
   <a href = "mailto:mhenrm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
