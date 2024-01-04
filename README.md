@@ -5,8 +5,8 @@
 # Sobre mim
 - :technologist: Meu nome é Marçal, tenho 26 anos
 - :books: Discente em Engenharia de Computação pelo IFMG - Campus Bambuí
-- :seedling: Atualmente estudando data science e afins
-- :handbag: Em busca do 1º emprego
+- :seedling: Atualmente estudando visão computacional e afins
+- :handbag: Engenheiro de visão computacional - Redsoft AI
 - :nerd_face: Aficionado por animes e games
 
 <div style="display: inline_block"><br>
