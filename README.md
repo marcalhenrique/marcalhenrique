@@ -1,44 +1,53 @@
-<h1 align="center">
-  Bem-vindo ao meu GitHub :scientist:
-</h1>
+# Marçal Henrique
 
-# Sobre mim
-- :technologist: Meu nome é Marçal, tenho 26 anos
-- :books: Discente em Engenharia de Computação pelo IFMG - Campus Bambuí
-- :seedling: Atualmente estudando visão computacional e afins
-- :handbag: Engenheiro de Visão Computacional - Redsoft AI
-- :nerd_face: Aficionado por animes e games
+Computer Vision Engineer  
+Machine Learning • Industrial AI Systems • Software Engineering
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcal-Python" height="50" width="50" src="https://www.svgrepo.com/show/452091/python.svg">
-  <img align="center" alt="Marcal-Cpp" height="50" width="50" src="https://www.svgrepo.com/show/452183/cpp.svg">
-  <img align="center" alt="Marcal-Java" height="50" width="50" src="https://www.svgrepo.com/show/452234/java.svg">
-  <img align="center" alt="Marcal-Mongo" height="50" width="50" src="https://www.svgrepo.com/show/331488/mongodb.svg">
-  <img align="center" alt="Marcal-Postgresql" height="50" width="50" src="https://www.svgrepo.com/show/354200/postgresql.svg">
-  <img align="center" alt="Marcal-Pandas" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg">
-  <img align="center" alt="Marcal-Sklearn" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
-  <img align="center" alt="Marcal-Seaborn" height="50" width="50" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
-  <img align="center" alt="Marcal-Seaborn" height="50" width="50" src="https://www.svgrepo.com/show/452192/docker.svg">
-</div>
+---
 
-##
+## About
 
+Computer Vision Engineer focused on building end-to-end AI systems for real-world and industrial environments.
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcalhenrique&theme=dark&show_icons=true&border_radius=10&count_private=true&hide_border=true&include_all_commits=true) ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=marcalhenrique&hide=yacc,makefile,cuda&theme=dark&layout=compact&langs_count=10&border_radius=10&hide_border=true) 
+My work spans the full lifecycle of machine learning solutions — from model development (detection, OCR, tracking) to production deployment with proper software architecture and MLOps practices.
 
-##
+I value robustness, scalability, and engineering quality as much as model accuracy.
 
-# Contato
+---
 
-<div>
-  <a href = "mailto:mhenrm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcalhenrique/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/marcal.png/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
- 
+## Core Stack
 
-  
-  
-  
-  
+**Languages**
+- Python
+- C++
+
+**Machine Learning & Vision**
+- PyTorch
+- Ultralytics (YOLO)
+- OpenCV
+- PaddleOCR
+- OC-SORT
+- MLflow
+
+**Backend & Systems**
+- FastAPI
+- REST APIs
+- Clean Architecture
+- Docker
+- CI/CD
+
+---
+
+## Current Focus
+
+- Production-grade Computer Vision systems  
+- Real-time inference pipelines  
+- Model lifecycle & experiment tracking  
+- AI integration with industrial and backend systems  
+
+---
+
+## Contact
+
+- Email: mhenrm@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/marcalhenrique/
